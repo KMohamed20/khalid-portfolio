@@ -1,4 +1,4 @@
-# 🌟 Portfolio - Khalid Ag Mohamed Aly
+# 🌟 Portfolio - Khalid Ag Mohamed Aly   
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sciences%20Politiques-%23667eea.svg?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Sciences Politiques">
